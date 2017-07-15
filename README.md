@@ -1,2 +1,2 @@
 # MYWEB
-Flat design web page
+扁平化设计的网站主页
